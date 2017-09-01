@@ -1,0 +1,21 @@
+{
+  "name": "Te4TestProject",
+  "homepage": "https://github.com/Elle199/Te4TestProject",
+  "authors": [
+    "elliot.angman@gmail.com <fabian_max@hotmail.com>"
+  ],
+  "description": "A test project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
