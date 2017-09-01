@@ -1,0 +1,155 @@
+html {
+  background-color: black;
+}
+
+.container {
+  width: 60vw;
+  height: 80vh;
+
+}
+
+div {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+#triangel {
+  clip-path: polygon(45.5% 55%, 34% 79%, 50% 65%);
+  background-color: #2d2722;
+}
+
+#triangel2 { /*Näsan*/
+  clip-path: polygon(45.5% 55%, 50% 55%, 50% 65%);
+  background-color: #312E29;
+}
+
+#triangel3 {
+  clip-path: polygon(50% 76%, 34% 79%, 50% 65%);
+  background-color: #3e342d;
+}
+
+#triangel4 {
+  clip-path: polygon(50% 76%, 34% 79%, 41% 85.5%);
+  background-color: #35271c;
+}
+
+#triangel5 {
+  clip-path: polygon(50% 76%, 50% 83.3%, 43.5% 82.5%);
+  background-color: #2e1d12;
+}
+
+#triangel6 {
+  clip-path: polygon(45.5% 55%, 34% 79%, 36% 66%);
+  background-color: #3d3228;
+}
+
+#triangel7 {
+  clip-path: polygon(32% 72%, 34% 79%, 36% 66%);
+  background-color: #b19678;
+}
+
+#triangel8 {
+  clip-path: polygon(32% 72%, 37% 59%, 36% 66%);
+  background-color: #9c785b;
+}
+
+#triangel9 {
+  clip-path: polygon(45.5% 55%, 37% 59%, 36% 66%);
+  background-color: #ab9173;
+}
+
+#triangel10 {
+  clip-path: polygon(45.5% 55%, 37% 59%, 45.5% 50%);
+  background-color: #8c7b67;
+}
+
+#triangel11 {
+  clip-path: polygon(45.5% 55%, 50% 55%, 45.5% 50%);
+  background-color: #30261f;
+}
+
+#triangel12 {
+  clip-path: polygon(50% 48%, 50% 55%, 45.5% 50%);
+  background-color: #3a3027;
+}
+
+#triangel13 {
+  clip-path: polygon(50% 48%, 36% 41%, 45.5% 50%);
+  background-color: #372c22;
+}
+
+#triangel14 {
+  clip-path: polygon(50% 48%, 36% 41%, 37.5% 22%);
+  background-color: #8c7b67;
+}
+
+#triangel15 {
+  clip-path: polygon(50% 48%, 50% 14.5%, 37.5% 22%);
+  background-color: #95826a;
+}
+
+#triangel16 {
+  clip-path: polygon(27% 42%, 36% 41%, 37.5% 22%);
+  background-color: #c2b09b;
+}
+
+#triangel17 {
+  clip-path: polygon(27% 42%, 36% 41%, 30% 55%);
+  background-color: #a68f73;
+}
+
+#triangel18 {
+  clip-path: polygon(36% 52%, 36% 41%, 30% 55%);
+  background-color: #362e25;
+}
+
+#triangel19 {
+  clip-path: polygon(36% 52%, 36% 41%, 45.5% 50%);
+  background-color: #28221a;
+}
+
+#triangel20 {
+  clip-path: polygon(36% 52%, 37% 59%, 45.5% 50%);
+  background-color: #362b22;
+}
+
+#triangel21 {
+  clip-path: polygon(36% 52%, 37% 59%, 30% 55%);
+  background-color: #47392b;
+}
+
+#triangel22 {
+  clip-path: polygon(32% 72%, 37% 59%, 30% 55%);
+  background-color: #c09f7b;
+}
+
+#triangel23 {
+  clip-path: polygon(27% 42%, 25% 38%, 37.5% 22%);
+  background-color: #342a20;
+}
+
+#triangel24 {
+  clip-path: polygon(29% 21%, 25% 38%, 37.5% 22%);
+  background-color: #7f715d;
+}
+
+#triangel25 {
+  clip-path: polygon(29% 21%, 25% 38%, 17% 35%);
+  background-color: #6c665d;
+}
+
+#triangel26 {
+  clip-path: polygon(25% 57%, 25% 38%, 17% 35%);
+  background-color: #5f5a51;
+}
+
+#triangel27 {
+  clip-path: polygon(25% 57%, 25% 38%, 27% 59%);
+  background-color: #524536;
+}
+
+#triangel28 {
+  clip-path: polygon(27% 42%, 25% 38%, 27% 59%);
+  background-color: #42392a;
+}
